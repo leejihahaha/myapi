@@ -1,7 +1,7 @@
 [
   {
     "name": "2024 Portfolio",
-    "image": "https://github.com/leejihahaha/myapi/blob/master/portfolio-img/K-023.png",
+    "image": "https://github.com/leejihahaha/myapi/portfolio-img/K-023.png",
     "description": "2024년도에 제작한 포트폴리오 사이트",
     "tags": ["react", "css-module", "framer-motion"],
     "source_code": "깃소스코드 사이트",
@@ -10,7 +10,7 @@
   },
   {
     "name": "다이어리",
-    "image": "https://github.com/leejihahaha/myapi/blob/master/portfolio-img/K-023.png",
+    "image": "https://github.com/leejihahaha/myapi/portfolio-img/K-023.png",
     "description": "CRUD",
     "tags": ["react", "tailwind", "framer-motion", "firebase"],
     "source_code": "깃소스코드 사이트",
@@ -19,7 +19,7 @@
   },
   {
     "name": "react 트렐로",
-    "image": "https://github.com/leejihahaha/myapi/blob/master/portfolio-img/K-023.png",
+    "image": "https://github.com/leejihahaha/myapi/portfolio-img/K-023.png",
     "description": "dnd 이용한 토이 프로젝트",
     "tags": ["react", "css-module", "framer-motion"],
     "source_code": "깃소스코드 사이트",

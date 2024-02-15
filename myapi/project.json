@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "2024 Portfolio",
+    "image": "이미지",
+    "description": "2024년도에 제작한 포트폴리오 사이트",
+    "tags": ["react", "css-module", "framer-motion"],
+    "source_code": "깃소스코드",
+    "demo": "데모"
+  },
+  {
+    "id": 2,
+    "name": "다이어리",
+    "image": "이미지",
+    "description": "CRUD",
+    "tags": ["react", "tailwind", "framer-motion", "firebase"],
+    "source_code": "깃소스코드",
+    "demo": "데모"
+  },
+  {
+    "id": 3,
+    "name": "react 트렐로",
+    "image": "이미지",
+    "description": "dnd 이용한 토이 프로젝트",
+    "tags": ["react", "css-module", "framer-motion"],
+    "source_code": "깃소스코드",
+    "demo": "데모"
+  }
+]

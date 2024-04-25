@@ -18,7 +18,7 @@
     "memo": "정리한 블로그 사이트"
   },
   {
-    "name": "react 트렐로",
+    "name": "독서메모",
     "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-069.png",
     "description": "dnd 이용한 토이 프로젝트",
     "tags": ["react", "css-module", "framer-motion"],

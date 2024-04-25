@@ -1,7 +1,7 @@
 [
   {
     "name": "2024 Portfolio",
-    "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-023.png",
+    "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-068.png",
     "description": "2024년도에 제작한 포트폴리오 사이트",
     "tags": ["react", "css-module", "framer-motion"],
     "source_code": "깃소스코드 사이트",
@@ -10,7 +10,7 @@
   },
   {
     "name": "My Record",
-    "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-060.png",
+    "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-069.png",
     "description": "CRUD",
     "tags": ["react", "tailwind", "framer-motion", "firebase"],
     "source_code": "깃소스코드 사이트",

@@ -2,25 +2,7 @@
   {
     "name": "2024 Portfolio",
     "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-068.png",
-    "description": [
-      {
-        "tag": "feature",
-        "content": "json 파일에 데이터 저장 후 직관적이고 편리한 axios를 사용하였습니다."
-      },
-      {
-        "tag": "feature",
-        "content": "해당 섹션으로 부드럽게 스크롤할 수 있도록 useRef 훅을 활용해 사용자 경험이 향상되도록 했습니다."
-      },
-      {
-        "tag": "feature",
-        "content": "EmailJS를 사용하여 간편하게 이메일을 전송할 수 있게 만들었습니다."
-      },
-      {
-        "tag": "feature",
-        "content": "Framer Motion을 사용해 생동감 있는 애니메이션을 적용했습니다."
-      }
-    ],
-
+    "description": "useRef를 사용하여 버튼을 클릭하면 부드럽게 스크롤 할 수 있게 만들고 Framer Motion으로 생동감있는 애니메이션을 적용한 반응형 웹 포트폴리오 입니다.",
     "type": "개인프로젝트",
 
     "tags": [
@@ -38,25 +20,7 @@
   {
     "name": "순간 기록 Blog",
     "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-069.png",
-    "description": [
-      {
-        "tag": "feature",
-        "content": "실시간 서버 데이터베이스를 이용해 포스트 CRUD 기능 구현했습니다."
-      },
-      {
-        "tag": "feature",
-        "content": "LCP를 5.4초 단축시켜서 LightHouse 점수를 높여 사용자경험 향상에 신경썼습니다."
-      },
-      {
-        "tag": "feature",
-        "content": "수정모드에서 이전 미리보기 이미지만 보이는 현상을 해결하고 메모리 누수 방지에도 신경썼습니다."
-      },
-      {
-        "tag": "feature",
-        "content": "Tailwind CSS 기반으로 다크 모드를 구현했습니다."
-      }
-    ],
-
+    "description": "하루에 가장 인상깊었던 사진 한 장과 글을 생성,읽기,갱신,삭제할 수 있는 블로그 컨셉의 개인 프로젝트를 제작했습니다. ",
     "type": "개인프로젝트",
 
     "tags": ["react", "react-query", "tailwind", "framer-motion", "firebase"],

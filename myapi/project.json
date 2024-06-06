@@ -14,7 +14,7 @@
       "EmailJS-API"
     ],
     "source_code": "https://github.com/leejihahaha/react-portfolio",
-    "github_page": "데모 URL",
+    "github_page": "https://leejihahaha.github.io/",
     "memo": "https://dog-curler-fde.notion.site/8e0175a47b654f48a7c611e5666fae54"
   },
   {
@@ -25,7 +25,7 @@
 
     "tags": ["react", "react-query", "tailwind", "framer-motion", "firebase"],
     "source_code": "https://github.com/leejihahaha/blog-project",
-    "github_page": "데모 URL",
+    "github_page": "https://leejihahaha.github.io/blog-project/",
     "memo": "https://www.notion.so/df87ce143c704a538487ddd1d0a8a01f"
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "name": "CLAT",
+    "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-026.jpg",
+    "description": "교수와 학생간의 실시간 문의 및 STOMP 실시간 소켓 통신을 기반으로한 채팅 서비스 제공, Json Web Token 기반의 로그인 서비스 제공합니다. ",
+    "type": "팀 프로젝트",
+
+    "tags": [
+      "Next",
+      "typescript",
+      "react-query",
+      "React Hook Form",
+      "Axios",
+      "tailwind"
+    ],
+    "source_code": "https://github.com/CLAT-Project",
+    "github_page": "https://clat-project.vercel.app/login"
+  },
+  {
     "name": "2024 Portfolio",
     "image": "https://raw.githubusercontent.com/leejihahaha/myapi/master/portfolio-img/K-068.png",
     "description": "useRef를 사용하여 버튼을 클릭하면 부드럽게 스크롤 할 수 있게 만들고 Framer Motion으로 생동감있는 애니메이션을 적용한 반응형 웹 포트폴리오 입니다.",
